@@ -1,4 +1,4 @@
-# Super-Trunfo_Mulheres_na_Ciencia
+# Super-Trunfo_Mulheres_na_Ciência
 
 
 Projeto desenvolvido durante a Imersão dev, da Alura. 
